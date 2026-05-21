@@ -24,3 +24,4 @@ See `.env.example` for all required variables.
 - `http-proxy-middleware` — reverse proxy
 - `jsonwebtoken` — JWT validation
 # accuracy test trigger
+# reindex
