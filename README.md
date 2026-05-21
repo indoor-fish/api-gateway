@@ -25,3 +25,4 @@ See `.env.example` for all required variables.
 - `jsonwebtoken` — JWT validation
 # accuracy test trigger
 # reindex
+# reindex
