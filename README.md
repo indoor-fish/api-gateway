@@ -23,3 +23,4 @@ See `.env.example` for all required variables.
 - `@indoor-fish/shared-libs` — shared types and service URL constants
 - `http-proxy-middleware` — reverse proxy
 - `jsonwebtoken` — JWT validation
+# accuracy test trigger
