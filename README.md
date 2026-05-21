@@ -27,3 +27,4 @@ See `.env.example` for all required variables.
 # reindex
 # reindex
 # reindex3
+# reindex4
