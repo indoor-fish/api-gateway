@@ -28,3 +28,4 @@ See `.env.example` for all required variables.
 # reindex
 # reindex3
 # reindex4
+# final
