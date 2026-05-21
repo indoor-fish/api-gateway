@@ -26,3 +26,4 @@ See `.env.example` for all required variables.
 # accuracy test trigger
 # reindex
 # reindex
+# reindex3
